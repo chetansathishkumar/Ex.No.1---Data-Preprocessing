@@ -38,6 +38,11 @@ Normalizing the data
 Splitting the data into test and train
 
 ## PROGRAM:
+~~~
+NAME: Pabbarthi Chetan Sathish Kumar
+REG.NO:212220230033
+
+~~~
 ```py
 import pandas as pd
 import numpy as np
